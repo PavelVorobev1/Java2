@@ -1,4 +1,4 @@
-package ru.geekbrains.catch_the_drop;
+package ru.geekbrains;
 
 public class Main {
 
