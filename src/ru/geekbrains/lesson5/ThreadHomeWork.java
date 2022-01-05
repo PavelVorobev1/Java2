@@ -29,6 +29,7 @@ public class ThreadHomeWork {
 
     public static void example2() throws InterruptedException {
 
+
         float[] arr = new float[SIZE];
         Arrays.fill(arr, 1.0f);
         long start = System.currentTimeMillis();
